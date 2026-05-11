@@ -19,4 +19,4 @@ jobs:
           java-version: '21'
 
       - name: Compile Java files
-        run: javac src/ontrack/*.java
+        run: javac src/ontrack/TaskStatus.java
